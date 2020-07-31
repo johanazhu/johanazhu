@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 长泽雅美至上主义者
+## 我是长泽雅美至上主义者
 
 <!--
 **johanazhu/johanazhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
