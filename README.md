@@ -1,5 +1,8 @@
-### Hi there 👋
 
+
+![](https://github-readme-stats.vercel.app/api?username=johanazhu&show_icons=true)
+
+### Hi there 👋
 ## 我是长泽雅美至上主义者
 
 <!--
