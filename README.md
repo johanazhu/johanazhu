@@ -5,7 +5,7 @@
 - 🍒 我是一名前端开发者
 - 🌱 现阶段在做移动端组件——[JingUI](https://github.com/johanazhu/jingui)
 - 🤔 做了个前端知识库———[三五前端](https://github.com/johanazhu/fe)
-- 📖 在博客上写文章——[azhubaby](https://blog.azhubaby.com)
+- 📖 在博客上写文章——[Azhubaby](https://blog.azhubaby.com)
 
 <!-- 
 - 🍉 我是长泽雅美至上主义者
