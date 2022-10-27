@@ -9,14 +9,6 @@
 - 📖 在博客上写文章——[阿朱博客](https://blog.azhubaby.com)
 - 🍉 哦，对了，我是长泽雅美至上主义者
 
-<a href="https://github.com/liruifengv#gh-light-mode-only">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=johanazhu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff#gh-light-mode-only" />
-</a>
-
-<a href="https://github.com/liruifengv#gh-dark-mode-only">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=johanazhu&show_icons=true&theme=vue-dark&border_color=42b973#gh-dark-mode-only" />
-</a>
-
 ## 💻 Tech Stack:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -38,7 +30,12 @@
 - [nextday](https://github.com/johanazhu/nextday101) nextday APP 的小程序版本
 - [李瓶儿独立博客](https://github.com/johanazhu/lipingerblog) koa2 + mysql + redis 
 
+<a href="https://github.com/liruifengv#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=johanazhu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff#gh-light-mode-only" />
+</a>
+
+<a href="https://github.com/liruifengv#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=johanazhu&show_icons=true&theme=vue-dark&border_color=42b973#gh-dark-mode-only" />
+</a>
 
 
-
-## 很高兴见到你，欢迎来玩~
