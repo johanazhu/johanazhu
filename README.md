@@ -4,10 +4,10 @@
 
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Johan，是一名前端乞儿，技术一般但喜欢折腾新事物
 - 😆 现在在学习 ruby on rails
-- 🌱 现阶段在做移动端组件——[JingUI](https://github.com/johanazhu/jingui)
 - 🤔 持续更新前端知识库———[五年前端三年面试](https://github.com/johanazhu/fe)
 - 🍒 个人网站——[Azhubaby](https://azhubaby.com)
 - 📖 在博客上写文章——[阿朱博客](https://blog.azhubaby.com)
+- 🌱 做过前端组件库——[JingUI](https://github.com/johanazhu/jingui)
 - 🍉 哦，对了，我是长泽雅美至上主义者
 
 ## 💻 Tech Stack:
