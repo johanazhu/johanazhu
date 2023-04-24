@@ -2,7 +2,7 @@
 我是 Johan，一名长泽雅美至上主义者
 
 ## 正在学习
-- 😆 现在在学习 ruby on rails
+- 😆 现在计划重学node（2023.5-2023.8），learn by making
 - 🍉 努力成为独立开发者
 
 
@@ -10,7 +10,7 @@
 - 🤔 持续更新前端知识库———[五年前端三年面试](https://github.com/johanazhu/fe)
 - 🍒 个人网站——[Azhubaby](https://azhubaby.com)
 - 📖 在博客上写文章——[阿朱博客](https://blog.azhubaby.com)
-- 🌱 React 组件库——[JingUI](https://github.com/johanazhu/jingui)
+# 🌱 React 组件库——[JingUI](https://github.com/johanazhu/jingui)
 
 ## 💻 Tech Stack:
 
@@ -30,10 +30,11 @@
 
 
 ## 我的开源（暂时还没拿得出手的）
-- [jingui](https://github.com/johanazhu/jingui) 基于 React + TypeScript 开发的 React 组件库
+- [jingui](https://github.com/johanazhu/jingui) 公司组件，基于 React + TypeScript 开发的 React 组件库
 - [Demo合集](https://github.com/johanazhu/demo) 各种 demo 合集
 - [readhub](https://github.com/johanazhu/readhub) 高仿 [readhub.cn](https://readhub.cn)
 - [nextday](https://github.com/johanazhu/nextday101) nextday APP 的小程序版本
+- [地宫](https://github.com/johanazhu/underground-palace) 论坛应用，[realworld](https://github.com/gothinkster/realworld) 的 ruby 版本
 - [李瓶儿独立博客](https://github.com/johanazhu/lipingerblog) 简单的博客 koa2 + mysql + redis 
 
 --------------------------------------------------------------
