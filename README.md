@@ -2,7 +2,7 @@
 我是 Johan，一名长泽雅美至上主义者
 
 ## 正在学习
-- 😆 现在计划重学node（2023.5-2023.8），learn by making
+- 😆 重学node（2023.5-2023.8），learn by making
 - 🍉 努力成为独立开发者
 
 
