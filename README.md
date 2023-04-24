@@ -10,7 +10,7 @@
 - 🤔 持续更新前端知识库———[五年前端三年面试](https://github.com/johanazhu/fe)
 - 🍒 个人网站——[Azhubaby](https://azhubaby.com)
 - 📖 在博客上写文章——[阿朱博客](https://blog.azhubaby.com)
-# 🌱 React 组件库——[JingUI](https://github.com/johanazhu/jingui)
+<!--  🌱 React 组件库——[JingUI](https://github.com/johanazhu/jingui) -->
 
 ## 💻 Tech Stack:
 
