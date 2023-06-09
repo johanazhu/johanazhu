@@ -35,6 +35,7 @@
 - [readhub](https://github.com/johanazhu/readhub) 高仿 [readhub.cn](https://readhub.cn)
 - [nextday](https://github.com/johanazhu/nextday101) nextday APP 的小程序版本
 - [地宫](https://github.com/johanazhu/underground-palace) 论坛应用，[realworld](https://github.com/gothinkster/realworld) 的 ruby 版本
+- [唐诗api](https://github.com/johanazhu/tangpoetry) 唐诗 API，ruby on rails 开发的 API
 - [李瓶儿独立博客](https://github.com/johanazhu/lipingerblog) 简单的博客 koa2 + mysql + redis 
 
 --------------------------------------------------------------
