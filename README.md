@@ -29,7 +29,8 @@
 
 
 
-## 我的开源（暂时还没拿得出手的）
+## 我的开源
+- [replaceanything](https://www.replace-anything.fun/)，2024年第一款出海产品，用 AI 替换图片中某一个部分
 - [jingui](https://github.com/johanazhu/jingui) 公司组件，基于 React + TypeScript 开发的 React 组件库
 - [Demo合集](https://github.com/johanazhu/demo) 各种 demo 合集
 - [readhub](https://github.com/johanazhu/readhub) 高仿 [readhub.cn](https://readhub.cn)
