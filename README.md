@@ -1,16 +1,14 @@
 ### Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> 
-我是 Johan，一名长泽雅美至上主义者
+我是 Johan，长泽雅美至上主义者
 
 ## 正在进行
-- 😆 Learning English by reading books
 - 🍉 努力成为独立开发者（2024 目标）
 
+## build in public（一年10个项目）
+- 第一个：[replace-anything.fun](https://www.replace-anything.fun/)，用 AI 替换图片中某一个部分
+- 第二个：[askanythingfree.com/](https://askanythingfree.com/)，免费问任何问题
+- 第三个：[开源哄哄模拟器](https://hong.azhubaby.com/)，模仿DK的哄哄模拟器的开源版本
 
-## 持续进行
-- 🤔 持续更新前端知识库———[五年前端三年面试](https://github.com/johanazhu/fe)
-- 🍒 个人网站——[Azhubaby](https://azhubaby.com)
-- 📖 在博客上写文章——[阿朱博客](https://blog.azhubaby.com)
-<!--  🌱 React 组件库——[JingUI](https://github.com/johanazhu/jingui) -->
 
 ## 💻 Tech Stack:
 
@@ -27,10 +25,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
 <code>![visitors](https://visitor-badge.glitch.me/badge?page_id=johanazhu.johanazhu)</code>
 
-
+## 个人信息
+- 🍒 个人网站——[Azhubaby](https://azhubaby.com)
+- 🤔 我的前端知识树———[五年前端三年面试](https://github.com/johanazhu/fe)
+- 📖 [我的博客]((https://blog.azhubaby.com))
 
 ## 我的开源
-- [replaceanything](https://www.replace-anything.fun/)，2024年第一款出海产品，用 AI 替换图片中某一个部分
+- [replace-anything.fun](https://www.replace-anything.fun/)，2024年第一款出海产品，用 AI 替换图片中某一个部分
 - [jingui](https://github.com/johanazhu/jingui) 公司组件，基于 React + TypeScript 开发的 React 组件库
 - [Demo合集](https://github.com/johanazhu/demo) 各种 demo 合集
 - [readhub](https://github.com/johanazhu/readhub) 高仿 [readhub.cn](https://readhub.cn)
