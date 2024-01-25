@@ -28,7 +28,7 @@
 ## 个人信息
 - 🍒 个人网站——[Azhubaby](https://azhubaby.com)
 - 🤔 我的前端知识树———[五年前端三年面试](https://github.com/johanazhu/fe)
-- 📖 [我的博客]((https://blog.azhubaby.com))
+- 📖 [我的博客](https://blog.azhubaby.com)
 
 ## 我的开源
 - [replace-anything.fun](https://www.replace-anything.fun/)，2024年第一款出海产品，用 AI 替换图片中某一个部分
