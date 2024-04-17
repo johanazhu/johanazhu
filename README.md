@@ -1,13 +1,17 @@
 ### Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> 
 我是 Johan，长泽雅美至上主义者
 
-## 正在进行
-- 🍉 努力成为独立开发者（2024 目标）
+## 正在进行（写于4月10号）
+- ~~🍉 努力成为独立开发者（2024 目标）~~
+- 找到一份合适的工作
 
 ## build in public（一年10个项目）
 - 第一个：[replace-anything.fun](https://www.replace-anything.fun/)，用 AI 替换图片中某一个部分
-- 第二个：[askanythingfree.com/](https://askanythingfree.com/)，免费问任何问题
+- 第二个：[askanythingfree.com](https://askanythingfree.com/)，免费问任何问题
 - 第三个：[开源哄哄模拟器](https://hong.azhubaby.com/)，模仿DK的哄哄模拟器的开源版本
+- 第四个：[pickuplines101.com](https://pickuplines101.com/)，搭讪土话 SaaS 应用，接的 lemonsqueezy 支付
+- 第五个；[副业宝典](https://fuye.dev/)，也是一个SaaS应用，接的国内支付
+- 第六个：[TK工具站](https://www.toolskithub.com/)，每个开发心中都有一个属于自己的工具站
 
 
 ## 💻 Tech Stack:
