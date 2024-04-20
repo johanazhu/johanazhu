@@ -9,8 +9,8 @@
 - 第一个：[replace-anything.fun](https://www.replace-anything.fun/)，用 AI 替换图片中某一个部分
 - 第二个：[askanythingfree.com](https://askanythingfree.com/)，免费问任何问题
 - 第三个：[开源哄哄模拟器](https://hong.azhubaby.com/)，模仿DK的哄哄模拟器的开源版本
-- 第四个：[pickuplines101.com](https://pickuplines101.com/)，搭讪土话 SaaS 应用，接的 lemonsqueezy 支付
-- 第五个；[副业宝典](https://fuye.dev/)，也是一个SaaS应用，接的国内支付
+- 第四个：[pickuplines101.com](https://pickuplines101.com/)，搭讪土话 SaaS 应用， 基于 OpenAI + Next.js + Tailwindcss + Lemonsqueezy + Vercel 构建
+- 第五个；[副业宝典](https://fuye.dev/)，也是一个SaaS应用，基于 Next.js + Tailwindcss + 7pay + Vercel 构建
 - 第六个：[TK工具站](https://www.toolskithub.com/)，每个开发心中都有一个属于自己的工具站
 
 
@@ -32,9 +32,10 @@
 ## 个人信息
 - 🍒 个人网站——[Azhubaby](https://azhubaby.com)
 - 🤔 我的前端知识树———[五年前端三年面试](https://github.com/johanazhu/fe)
-- 📖 [我的博客](https://blog.azhubaby.com)
+- 📖 我的博客——[随朱波流](https://blog.azhubaby.com)
 
 ## 我的开源
+- [开源哄哄模拟器](https://hong.azhubaby.com/)，模仿DK的哄哄模拟器的开源版本，基于 Gemini AI + Next.js + Vercel 构建
 - [replace-anything.fun](https://www.replace-anything.fun/)，2024年第一款出海产品，用 AI 替换图片中某一个部分
 - [jingui](https://github.com/johanazhu/jingui) 公司组件，基于 React + TypeScript 开发的 React 组件库
 - [Demo合集](https://github.com/johanazhu/demo) 各种 demo 合集
