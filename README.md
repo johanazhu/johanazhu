@@ -6,13 +6,13 @@
 - 找到一份合适的工作
 
 ## build in public（一年10个项目）
-- 第一个：[replace-anything.fun](https://www.replace-anything.fun/)，用 AI 替换图片中某一个部分
-- 第二个：[askanythingfree.com](https://askanythingfree.com/)，免费问任何问题
-- 第三个：[开源哄哄模拟器](https://hong.azhubaby.com/)，模仿DK的哄哄模拟器的开源版本
+- 第一个：[replace-anything.fun](https://www.replace-anything.fun/)，用 AI 替换图片中某一个部分，哥飞群比赛的第一个项目
+- 第二个：[askanythingfree.com](https://askanythingfree.com/)，免费问任何问题，基于 gemini 的一个页面应用
+- 第三个：[开源哄哄模拟器](https://hong.azhubaby.com/)，模仿DK的哄哄模拟器的开源版本，背后模型用的 gemini
 - 第四个：[pickuplines101.com](https://pickuplines101.com/)，搭讪土话 SaaS 应用， 基于 OpenAI + Next.js + Tailwindcss + Lemonsqueezy + Vercel 构建
-- 第五个；[副业宝典](https://fuye.dev/)，也是一个SaaS应用，基于 Next.js + Tailwindcss + 7pay + Vercel 构建
-- 第六个：[TK工具站](https://www.toolskithub.com/)，每个开发心中都有一个属于自己的工具站
-- 第七个：[中国色](https://chinese-colors.com/)，中国传统色
+- 第五个；[副业宝典](https://fuye.dev/)，也是一个SaaS应用，基于 Next.js + Tailwindcss + 7pay + Vercel 构建（半成品，就打通了流程）
+- 第六个：[TK工具站](https://toolskithub.com/)，每个开发心中都有一个属于自己的工具站，花费2个月时间做了12个工具
+- 第七个：[中国色](https://chinese-colors.com/)，中国传统色，占词，后续想做 SEO 优化
 
 
 ## 💻 Tech Stack:
