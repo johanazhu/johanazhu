@@ -12,6 +12,7 @@
 - 第四个：[pickuplines101.com](https://pickuplines101.com/)，搭讪土话 SaaS 应用， 基于 OpenAI + Next.js + Tailwindcss + Lemonsqueezy + Vercel 构建
 - 第五个；[副业宝典](https://fuye.dev/)，也是一个SaaS应用，基于 Next.js + Tailwindcss + 7pay + Vercel 构建
 - 第六个：[TK工具站](https://www.toolskithub.com/)，每个开发心中都有一个属于自己的工具站
+- 第七个：[中国色](https://chinese-colors.com/)，中国传统色
 
 
 ## 💻 Tech Stack:
