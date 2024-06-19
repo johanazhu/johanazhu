@@ -1,7 +1,7 @@
 ### Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> 
 我是 Johan，长泽雅美至上主义者
 
-## 正在进行（写于4月10号）
+## 正在进行
 - ~~🍉 努力成为独立开发者（2024 目标）~~
 - 找到一份合适的工作
 
