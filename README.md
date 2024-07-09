@@ -13,7 +13,10 @@
 - 第五个；[副业宝典](https://fuye.dev/)，也是一个SaaS应用，基于 Next.js + Tailwindcss + 7pay + Vercel 构建（半成品，就打通了流程）
 - 第六个：[TK工具站](https://toolskithub.com/)，每个开发心中都有一个属于自己的工具站，花费2个月时间做了12个工具
 - 第七个：[中国色](https://chinese-colors.com/)，中国传统色，占词，后续想做 SEO 优化
-
+- 第八个：[ETF投资智慧](https://etfworld.azhubaby.com/)，E大干货合集，方便自己以后查看
+- 第九个：[holdbtc](https://holdbtc.azhubaby.com/)，囤比特币-囤币指南
+- 第十个：[小报童专栏导航](https://xiaobot.tools/)，小报童导航
+至此，我的2024年目标到此结束，全面找工作
 
 ## 💻 Tech Stack:
 
