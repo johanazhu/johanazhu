@@ -16,7 +16,8 @@
 - 第八个：[ETF投资智慧](https://etfworld.azhubaby.com/)，E大干货合集，方便自己以后查看
 - 第九个：[holdbtc](https://holdbtc.azhubaby.com/)，囤比特币-囤币指南
 - 第十个：[小报童专栏导航](https://xiaobot.tools/)，小报童导航
-至此，我的2024年目标到此结束，全面找工作
+
+至此，我的2024年目标（是个side project）到此完成，之后全面找工作
 
 ## 💻 Tech Stack:
 
