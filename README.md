@@ -1,3 +1,4 @@
+<!-- 
 ### Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> 
 我是 Johan，长泽雅美至上主义者
 
@@ -32,8 +33,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
-<!--   <code>![visitors](https://visitor-badge.glitch.me/badge?page_id=johanazhu.johanazhu)</code> -->
-
+ --> 
 ## 个人信息
 - 🍒 个人网站——[Azhubaby](https://azhubaby.com)
 - 🤔 我的前端知识树———[五年前端三年面试](https://github.com/johanazhu/fe)
