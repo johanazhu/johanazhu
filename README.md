@@ -1,7 +1,7 @@
 
 ## 个人信息
 - 🍒 个人网站——[Azhubaby](https://azhubaby.com?utm_source=github.com)
-- 🤔 我的前端知识树———[五年前端三年面试](https://github.com/johanazhu/fe?utm_source=github.com)
+- 🤔 我的程序知识树———[五年前端三年面试](https://github.com/johanazhu/fe?utm_source=github.com)
 - 📖 我的博客——[随朱波流](https://blog.azhubaby.com?utm_source=github.com)
 
 ## 独立开发作品
