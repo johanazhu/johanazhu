@@ -5,7 +5,7 @@
 - 📖 我的博客——[随朱波流](https://blog.azhubaby.com?utm_source=github.com)
 
 ## 独立开发作品
-- 📰 小报童导航站——[小报童导航站](https://xiaobot.tools?utm_source=github.com)
+- 📰 小报童导航站——[小报童导航站](https://xiaobaot.cn?utm_source=github.com)
 - 🛠️ 工具站——[工具站](https://www.toolskithub.com?utm_source=github.com)
 
 ## 我的开源
