@@ -6,7 +6,7 @@
 
 ## 独立开发作品
 - 📰 小报童导航站——[小报童导航站](https://xiaobaot.cn?utm_source=github.com)
-- 🛠️ 工具站——[工具站](https://www.toolskithub.com?utm_source=github.com)
+- 🛠️ 工具站——[工具站](https://toolskithub.com?utm_source=github.com)
 
 ## 我的开源
 - [开源哄哄模拟器](https://hong.azhubaby.com/)，模仿DK的哄哄模拟器的开源版本，基于 Gemini AI + Next.js + Vercel 构建
